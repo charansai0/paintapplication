@@ -326,7 +326,7 @@ Publish the website in the given URL.
 ~~~
 
 ## OUTPUT:
-![OUTPUT]()
+![OUTPUT](https://github.com/charansai0/paintapplication/blob/main/Screenshot%20(222).png?raw=true)
 
 ## Result:
 
