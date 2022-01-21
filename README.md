@@ -151,7 +151,7 @@ function myClickEvent(e){
 ~~~
 
 ## OUTPUT:
-![OUTPUT](https://github.com/charansai0/paintapplication/blob/main/Screenshot%20(222).png?raw=true)
+![OUTPUT](https://github.com/charansai0/paintapplication/blob/main/Screenshot%20(228).png?raw=true)
 
 ## Result:
 
